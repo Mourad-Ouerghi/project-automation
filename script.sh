@@ -16,4 +16,5 @@
     git branch -M main
     git remote add origin https://github.com/Mourad-Ouerghi/${projectName}.git
     git push -u origin main
+    code .
 

@@ -9,7 +9,7 @@ The purpsoe of this project is to automate the repetitive task of initializing g
     2. In the file script.sh line 10 change the path of the script.py file
     3. if you're using chrome put the lines 12->15 in a comment
     4. open powershell and paste this command so you can run it from anywhere :
-    Set-Alias -Name create -Value path-of-script.sh 
+    New-Alias -Name create -Value path-of-script.sh 
 ### Usage :
-* `create` name-of-project <br>
+* tap `create` in powershell  <br>
 and let the magic happens
